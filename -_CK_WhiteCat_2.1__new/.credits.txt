@@ -1,0 +1,13 @@
+ui sounds:
+- https://freesound.org/browse/
+- https://www.soundsnap.com/
+- https://soundimage.org/
+
+hitsounds:
+- https://ck1t.ru/s-1107
+
+icons:
+- https://www.flaticon.com
+
+font:
+- https://www.dafont.com/blend-her.font

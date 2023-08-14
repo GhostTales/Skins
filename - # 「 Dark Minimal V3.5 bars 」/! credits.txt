@@ -1,0 +1,38 @@
+Menu/UI
+
+inputoverlay-background				-	-         《CK》 WhiteCat 2.0 ~ old
+inputoverlay-key					-	-         《CK》 WhiteCat 2.0 ~ old
+scoreentry-# (changed to white)		-	# Hitori Gotou -
+
+Standard Gameplay
+
+cursor								-	-         《CK》 WhiteCat 2.0 ~ old
+hitcircle							-	- # BTMC   ⌞Freedom Dive  ↓⌝ RG
+combo colors						-	NM Sagittarius A
+spinner	(removed glow)				-	# Veibae
+hit judgements (recreated)			-	- # Spazza17 v2 [Fumo Bacon]
+
+Taiko Gameplay
+
+Base gameplay (made minor edits)	-	Ameliorate v1.5
+
+Catch Gameplay
+
+Fruits								-	Cinnamon Special v1.2.1
+
+Mania Gameplay
+
+Circles (sliders & 7k are modified)	-	Eliminate294's Mania Skin
+
+Bars (sliders are modified)			-	R Skin v3.0 (Korean Edit, LN Tail)
+
+
+
+Credits to the owners of these!
+
+Menu Sounds
+	- taken from a lot of skins
+	- some sounds were from # Hitori Gotou -
+Hitsounds
+follow point
+mania judgements

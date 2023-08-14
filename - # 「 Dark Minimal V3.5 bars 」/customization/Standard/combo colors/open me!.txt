@@ -1,0 +1,58 @@
+Here are a few of my favorite combo colors
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+- # BTMC   ⌞Freedom Dive  ↓⌝
+Combo1: 150,230,255
+Combo2: 255,125,177
+Combo3: 130,255,160
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+-         《CK》 WhiteCat 2.0 ~ old-lite
+Combo1: 198,173,159
+Combo2: 150,139,136
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+- # Shadow's dark minimal [NM] (Comfort)
+Combo1: 242,198,109
+Combo2: 131,242,109
+Combo3: 109,176,242
+Combo4: 242,109,131
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+- # Shadow's dark minimal V2
+Combo1: 109,176,242
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+- 「sigma」- The Memory of Mumei -
+Combo1: 235,212,180
+Combo2: 89,131,133
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+NM Sagittarius A
+Combo1:83,25,255
+Combo2:25,25,255
+Combo3:83,25,255
+Combo4:140,25,255
+Combo5:198,25,255
+Combo6:255,25,255
+Combo7:198,25,255
+Combo8:140,25,255
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+-#KW-! If there was an endpoint
+Combo1: 104,99,247
+Combo2: 247,99,127
+Combo3: 247,213,99
+Combo4: 99,247,179
+
+─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+
+Don't know how to change combo colors?
+head to the main skin folder and find the file "skin.ini" open it with any notepad app (notepad++ recommended) and under the standard category you will find [Colours] replace the existing "Combo1, Combo2.." with the colors you like!
